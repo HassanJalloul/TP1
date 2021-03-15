@@ -1,4 +1,6 @@
 body {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    background-color:lightblue;
+    margin: 25px;
+    background-color: rgb(47,177,209);
+    font-family: arial, sans-serif;
+    font-size: 14px;
   }
